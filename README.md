@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Ana Maria</h1>
 <h3 align="center">A passionate biomedical engineer, interested in full stack development</h3>
-
+<p align="center"> <img src="https://startupsmagazine.co.uk/sites/default/files/2020-04/Smart-little-girl-using-her-laptop-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamaria-asz&label=Profile%20views&color=0e75b6&style=flat" alt="anamaria-asz" /> </p>
 
 - 🌱 I’m currently learning **backend, mobile app development and data science**
