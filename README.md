@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ana Maria</h1>
+<h1 align="center">Hi, I'm Ana Maria <img height="150" align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*5OSbGu-5Z98IT8r76UJZbw.gif"/></h1>
+
 <h3 align="center">A passionate biomedical engineer, gaining experience as a full-stack developer</h3>
 
 - 🌱 I’m currently learning **APIs, Node.js**
@@ -8,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anamaria-asz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamaria-asz" height="30" width="40" /></a>
-<a href="https://instagram.com/anamaria-asz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anamaria-asz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
